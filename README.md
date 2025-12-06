@@ -28,7 +28,7 @@
 I'm a passionate software developer who loves building innovative solutions and exploring cutting-edge technologies. My goal is to create impactful software that makes a difference in the world. When I'm not coding, I'm constantly learning and experimenting with new tools and frameworks.
 
 - 🎓 Currently focusing on improving my skills
-- 🔥 Working on exciting projects in **Python** and **TypeScript**
+- 🔥 Working on exciting projects in **Python** and Automation
 - 🌱 Learning new technologies and best practices
 - 💡 Interested in **AI**, **Machine Learning**, and **Web Development**
 - 🏆 Achievement: Pull Shark
@@ -58,6 +58,9 @@ I'm a passionate software developer who loves building innovative solutions and 
 
 ## 📊 GitHub Stats
 
+> ⚠️ **Under Development** - This section will be updated soon.
+
+<!--
 <div align="center">
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adilzhetigenov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
@@ -71,11 +74,15 @@ I'm a passionate software developer who loves building innovative solutions and 
   <img src="https://github-readme-streak-stats.demolab.com/?user=adilzhetigenov&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
   
 </div>
+-->
 
 ---
 
 ## 🔥 Featured Projects
 
+> ⚠️ **Under Development** - This section will be updated soon.
+
+<!--
 <div align="center">
   
   ### 🎨 Check out some of my work:
@@ -85,6 +92,7 @@ I'm a passionate software developer who loves building innovative solutions and 
   [![StoryEncoder](https://github-readme-stats.vercel.app/api/pin/?username=adilzhetigenov&repo=StoryEncoder&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/adilzhetigenov/StoryEncoder)
   
 </div>
+-->
 
 ---
 
